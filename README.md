@@ -40,7 +40,7 @@ Dashboard ini menampilkan beberapa metrik dan grafik utama:
 ---
 
 ## 📁 Struktur File
-- `Pizza_Sales_Dashboard.xlsx` → File utama yang berisi seluruh analisis dan dashboard.  
+- `Pizza_Sales.xlsx` → File utama yang berisi seluruh analisis data mentah dan dashboard.  
 
 ---
 
